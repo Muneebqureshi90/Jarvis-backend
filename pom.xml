@@ -11,8 +11,8 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example</groupId>
-    <artifactId>jarvis-backend</artifactId>
+    <groupId>com.jarvis</groupId>
+    <artifactId>backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Jarvis Backend</name>
     <description>Spring Boot CRUD API for User management</description>
